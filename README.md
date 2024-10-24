@@ -2,6 +2,8 @@
 
 ### Exercise 1
 
+Refer to attcched Test Strategy Document: Smart_Doorbell_Camera_Test_Strategy_v0.pdf
+
 ### Exercise 2
 
 For this assignment I have used Python, Selenium and Bheave to automate a BDD test to login into Reddit.
