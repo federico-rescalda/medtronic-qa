@@ -2,7 +2,7 @@
 
 ### Exercise 1
 
-Refer to attcched Test Strategy Document: Smart_Doorbell_Camera_Test_Strategy_v0.pdf
+Refer to attached Test Strategy Document: Smart_Doorbell_Camera_Test_Strategy_v0.pdf
 
 ### Exercise 2
 
